@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_char_functions",
+  "source_file": "0.Code/Advanced Sas/3.Data Functions/2.charFunctions.sas",
+  "source_blob_sha": "622ee84dc3493f3eb1e42379644fee5cdb2083c5",
+  "source_commit": "87b0d126d02469de7bbdffc3f81d9ec8f5341f1f",
+  "notes": "Character functions: COMPBL/COMPRESS cleaning, SCAN+PROPCASE+STRIP word extraction, FIND with the I modifier + SUBSTR to pull 'Category N', and CAT/CATS/CATX concatenation with different delimiter behaviour. Three pg2.* course tables (weather_japan, storm_damage, storm_final) substituted with mock WORK datasets; the function logic is the author's verbatim. Closing PROC PRINT of storm_id added so the CAT results are visible."
+}

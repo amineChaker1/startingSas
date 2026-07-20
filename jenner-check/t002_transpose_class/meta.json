@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_transpose_class",
+  "source_file": "0.Code/Advanced Sas/7.Restructring Tables/2.usingTranspose.sas",
+  "source_blob_sha": "fe724b4cd31b4676e09394ac4ba2c9ec63f11ae5",
+  "source_commit": "87b0d126d02469de7bbdffc3f81d9ec8f5341f1f",
+  "notes": "PROC TRANSPOSE using ID Name and VAR Height Weight on the built-in sashelp.class table, preceded by PROC PRINT. Self-contained (sashelp.class ships with the engine). The trailing np_2017camping / np_2016camping transposes (external pg2 library) were omitted for this bundle."
+}

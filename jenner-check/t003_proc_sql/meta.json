@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_proc_sql",
+  "source_file": "0.Code/Base Sas/6.SQL in SAS/1.sqlProc.sas",
+  "source_blob_sha": "f8979173d4a1f422472a5015d0a0d415b061a382",
+  "source_commit": "87b0d126d02469de7bbdffc3f81d9ec8f5341f1f",
+  "notes": "PROC SQL: a SELECT computing HeightCM=Height*2.54 with column formats, then CREATE TABLE heavyHitters filtering Cost>25e9 ORDER BY Cost DESC with year(Date) as Season. The two pg1.* course tables (class_birthdate, storm_damage) were substituted with small mock WORK datasets (autoexec) matching the columns the query reads; SQL logic is the author's verbatim."
+}

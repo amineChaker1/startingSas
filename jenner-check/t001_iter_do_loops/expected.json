@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-20T13:17:22Z",
+  "_captured_run_id": "r_08d6e8d261e04d8095fad177226b0e56",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote YearlySavings (12 rows, 3 columns).",
+    "NOTE: Wrote retirement (6 rows, 3 columns).",
+    "NOTE: PROC PRINT completed: 6 observations printed, 3 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

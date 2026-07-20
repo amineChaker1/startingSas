@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-20T13:18:00Z",
+  "_captured_run_id": "r_b0f4a7b904da4e65933172b2dbd20921",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC PRINT completed: 19 observations printed, 5 variables",
+    "NOTE: PROC TRANSPOSE data=sashelp.class",
+    "NOTE: Created 2 rows."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

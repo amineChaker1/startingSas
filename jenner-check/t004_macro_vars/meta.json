@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_macro_vars",
+  "source_file": "0.Code/Base Sas/2.Exploring/3.macroVars.sas",
+  "source_blob_sha": "5acc15242897a81de5b4e147e59df144a0307cd0",
+  "source_commit": "87b0d126d02469de7bbdffc3f81d9ec8f5341f1f",
+  "notes": "Macro variables via %LET driving WHERE clauses across PROC PRINT/MEANS/FREQ, including a date-literal comparison StartDate>=\"&dateStart\"d and a LIKE \"&ParkCode%\" wildcard. Two pg1.* course tables (storm_summary, np_species) substituted with small mock WORK datasets matching the columns read; all macro/WHERE logic is the author's verbatim."
+}

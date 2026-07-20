@@ -1,0 +1,32 @@
+
+  Obs  Basin     Name  StartDate    EndDate  MaxWindMPH
+-----  -----  -------  ---------  ---------  ----------
+    1  NA     Katrina  23AUG2005  31AUG2005         175
+    2  NA     Wilma    15OCT2005  26OCT2005         185
+    3  NA     Rita     18SEP2005  26SEP2005         180
+    4  NA     Irma     30AUG2017  12SEP2017         180
+    5  NA     Dorian   24AUG2019  07SEP2019         185
+
+                                                  The MEANS Procedure
+
+ Variable           N            Mean        Std Dev         Minimum         Maximum
+ -----------------------------------------------------------------------------------
+ MaxWindMPH         5     181.0000000      4.1833001     175.0000000     185.0000000
+ MinPressure        5     900.6000000     12.7200629     882.0000000     914.0000000
+ -----------------------------------------------------------------------------------
+
+                                                   The FREQ Procedure
+
+                                       Cumulative    Cumulative
+Abundance    Frequency    Percent     Frequency      Percent
+------------------------------------------------------------------
+Abundant             1     25.00            1        25.00
+Common               1     25.00            2        50.00
+Rare                 1     25.00            3        75.00
+Uncommon             1     25.00            4       100.00
+
+                                                 Cumulative    Cumulative
+Conservation_Status    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------------
+Species of Concern             1     50.00            1        50.00
+Threatened                     1     50.00            2       100.00
