@@ -1,0 +1,18 @@
+
+   Name  Registration         Height
+-------  ------------  -------------
+Amir     Complete      Above Average
+Bethany  Incomplete    Above Average
+Carlos   Complete            Average
+Diana    Complete      Below Average
+Fiona    Complete               60.5
+
+    ParkName  GrossAcres  ParkSize
+------------  ----------  --------
+Acadia            49,075  Average
+Grand Canyon   1,201,647  Large
+Yellowstone    2,219,791  Large
+Gateway Arch         192  Small
+Zion             147,242  Average
+Great Basin       77,180  Average
+

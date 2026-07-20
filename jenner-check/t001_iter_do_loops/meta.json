@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_iter_do_loops",
+  "source_file": "0.Code/Advanced Sas/6.Repetitive Code/1.iterDoLoops.sas",
+  "source_blob_sha": "d3e18de5cb8dd0d7ec80c972f206e28ad5f8d2bf",
+  "source_commit": "87b0d126d02469de7bbdffc3f81d9ec8f5341f1f",
+  "notes": "Iterative and nested DO loops (S&P reserve, monthly savings with output each iteration, quarterly-compounded retirement) plus PROC PRINT with dollar12.2 format. Fully self-contained - no external library; the three DATA steps and PROC PRINT are shipped verbatim from the author. The trailing ForecastDayVisits step (needs pg2.np_summary) was omitted."
+}

@@ -1,0 +1,15 @@
+
+  Obs    Event                                             Summary  CategoryLoc    Category
+-----  -------  --------------------------------------------------  -----------  ----------
+    1  Andrew   Made landfall as a Category 5 hurricane in Florida           20  Category 5
+    2  Katrina  A powerful Category 3 storm at Louisiana landfall            12  Category 3
+    3  Sandy    Struck as a Category 1 system near New Jersey                13  Category 1
+    4  Harvey   Stalled Category 4 hurricane over Texas                       9  Category 4
+
+  Obs        StormID1         StormID2          StormID3
+-----  --------------  ---------------  ----------------
+    1  Katrina2005234  Katrina-2005234  Katrina-2005-234
+    2  Wilma2005287    Wilma-2005287    Wilma-2005-287
+    3  Sandy2012295    Sandy-2012295    Sandy-2012-295
+    4  Harvey2017228   Harvey-2017228   Harvey-2017-228
+

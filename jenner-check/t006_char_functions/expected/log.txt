@@ -1,0 +1,72 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA pg2_weather_japan
+
+NOTE: Processing inline DATALINES (4 lines)
+
+NOTE: Read 4 rows from DATALINES.
+NOTE: Wrote pg2_weather_japan (4 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA pg2_storm_damage
+
+NOTE: Processing inline DATALINES (4 lines)
+
+NOTE: Read 4 rows from DATALINES.
+NOTE: Wrote pg2_storm_damage (4 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA pg2_storm_final
+
+NOTE: Processing inline DATALINES (4 lines)
+
+NOTE: Read 4 rows from DATALINES.
+NOTE: Wrote pg2_storm_final (4 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA weather_japan_clean
+
+
+NOTE: Read 4 rows from pg2_weather_japan.
+NOTE: Wrote weather_japan_clean (4 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA weather_japan_clean
+
+                  ""
+                  ""
+                  ""
+                  ""
+
+NOTE: Read 4 rows from pg2_weather_japan.
+NOTE: Wrote weather_japan_clean (4 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA storm_damage2
+
+
+NOTE: Read 4 rows from pg2_storm_damage.
+NOTE: Wrote storm_damage2 (4 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=storm_damage2
+
+NOTE: PROC PRINT completed: 4 observations printed, 4 variables
+NOTE: DATA storm_id
+
+
+NOTE: Read 4 rows from pg2_storm_final.
+NOTE: Wrote storm_id (4 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=storm_id
+
+NOTE: PROC PRINT completed: 4 observations printed, 3 variables

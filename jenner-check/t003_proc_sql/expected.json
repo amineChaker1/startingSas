@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-20T13:18:53Z",
+  "_captured_run_id": "r_e426ab8d71a04f33adeb1fadd7a62221",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 6 rows from DATALINES.",
+    "NOTE: Table heavyHitters created.",
+    "NOTE: PROC SQL statement used."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

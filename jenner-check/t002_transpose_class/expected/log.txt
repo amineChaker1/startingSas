@@ -1,0 +1,10 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: PROC PRINT data=sashelp.class
+
+NOTE: PROC PRINT completed: 19 observations printed, 5 variables
+NOTE: PROC TRANSPOSE data=sashelp.class
+
+NOTE: Created 2 rows.
+NOTE: Output written to /tmp/work/r_b0f4a7b904da4e65933172b2dbd20921/work/3bf690f6-3170-44e8-a6d4-ca4d97dc2367/class_t.avro.

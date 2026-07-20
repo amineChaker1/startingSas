@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_conditional_proc",
+  "source_file": "0.Code/Base Sas/3.Preparing Data/3.conditionalProc.sas",
+  "source_blob_sha": "3d4689efcc1e242dbd18e49f9df07cd7ad8c744a",
+  "source_commit": "87b0d126d02469de7bbdffc3f81d9ec8f5341f1f",
+  "notes": "Conditional processing: LENGTH statement plus an IF / ELSE IF chain (including the IN operator over code lists) mapping park Type codes to a ParkType label, then PROC FREQ on ParkType. The pg1.np_summary course table substituted with a mock WORK dataset; the conditional logic is the author's verbatim. Shipped the first park_type block (the second block in the source uses a COMAA7.0 format typo, so it was left out)."
+}

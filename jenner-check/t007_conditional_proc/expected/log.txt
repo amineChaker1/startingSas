@@ -1,0 +1,23 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA pg1_np_summary
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote pg1_np_summary (8 rows, 9 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA park_type
+
+
+NOTE: Read 8 rows from pg1_np_summary.
+NOTE: Wrote park_type (8 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_parktype.spec.json
+NOTE: PROC FREQ statement used.

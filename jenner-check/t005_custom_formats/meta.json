@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_custom_formats",
+  "source_file": "0.Code/Advanced Sas/4.Custom Format/1.creatingFormats.sas",
+  "source_blob_sha": "82812ba23c1e6de448005d0fef404045598a7b2e",
+  "source_commit": "87b0d126d02469de7bbdffc3f81d9ec8f5341f1f",
+  "notes": "PROC FORMAT custom formats: $regfmt (char), hrange and psize (numeric value ranges with low-<, -high). Applied on PROC PRINT and via PUT into a new ParkSize column. Two pg2.* course tables (class_birthdate, np_acres) substituted with mock WORK datasets; the format definitions and their application are the author's verbatim. A closing PROC PRINT of np_parksize was added so the PUT result is visible."
+}
